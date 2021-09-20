@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MananTyagi-2002
-- 👀 I’m interested in solving problems.
+- 👋 Hi, I’m Manan Tyagi
+- 👀 I’m a tech enthusiast.
 - 🌱 I’m currently learning data structures and web development.
-- 📫 You can reach me at manantyagi.mt@gamil.com 
+- 📫 You can reach me at manantyagi.mt@gamil.com
 
 <!---
 MananTyagi-2002/MananTyagi-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
